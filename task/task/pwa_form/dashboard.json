@@ -1,0 +1,14 @@
+{
+    "form_name": "Number Card",
+    "name": "Number Card",
+    "doctype_name": "Dashboard",
+    "is_submittable": 0,
+    "pwa_form_fields": [
+        {
+            "fieldtype": "Number Card",
+            "fieldname": "Total Employees",
+            "label": "Total Employees",
+            "idx": 44
+        }
+    ]
+}
